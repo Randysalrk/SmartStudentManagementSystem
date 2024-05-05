@@ -9,7 +9,7 @@ import javax.swing.JTextField;
 import java.awt.image.BufferedImage;
 /**
  *
- * @author Wasantha
+ * 
  */
 public class AddNewLecture extends javax.swing.JFrame {
 

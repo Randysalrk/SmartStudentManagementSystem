@@ -8,7 +8,7 @@ import java.io.File;
 
 /**
  *
- * @author Wasantha
+ * 
  */
 public class file extends File {
 

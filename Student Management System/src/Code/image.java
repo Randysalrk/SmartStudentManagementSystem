@@ -8,7 +8,7 @@ import java.sql.Blob;
 
 /**
  *
- * @author Wasantha
+ * 
  */
 class image {
 
